@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/.vs/mock-api/v17
+/src/.vs/mock-api
+/src/mock-api/bin
+/src/mock-api/obj/Debug
+*.user
+/src/packages
+/src/TestAutomation/bin/Debug
+/src/TestAutomation/obj/Debug
+*.dbmdl
+*.jfm
